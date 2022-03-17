@@ -18,7 +18,7 @@ $ pip3 install -r requirements.txt
 Execute the following command:
 
 $ python3 bookmanager.py
- * Serving Flask app "bookmanager" (lazy loading)
+ * Serving Flask app "sensors" (lazy loading)
  * Environment: production
    WARNING: Do not use the development server in a production environment.
    Use a production WSGI server instead.
@@ -30,7 +30,7 @@ $ python3 bookmanager.py
 127.0.0.1 - - [04/Jul/2019 14:21:17] "GET / HTTP/1.1" 200 -
 
 
-## Reference 
+## Quick reference 
 https://www.codementor.io/garethdwyer/building-a-crud-application-with-flask-and-sqlalchemy-dm3wv7yu2
 https://docs.sqlalchemy.org/en/latest/orm/tutorial.html
 http://flask-sqlalchemy.pocoo.org/2.3/queries/
